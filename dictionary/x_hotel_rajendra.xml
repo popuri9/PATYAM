@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="rajendra" max_length="40" name="x_hotel_rajendra" type="collection">
+        <element choice="1" label="Gender" max_length="40" name="gender" type="choice">
+            <choice/>
+        </element>
+        <element label="Name" max_length="40" name="name" type="string"/>
+    </element>
+</database>
